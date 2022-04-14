@@ -1,0 +1,20 @@
+Number:
+low border test values:
+9
+10
+11
+high border test values:
+98
+99
+100
+Char
+A
+a
+Z
+z
+symbol
+-
+!
+#
+
+
